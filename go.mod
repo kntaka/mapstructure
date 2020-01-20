@@ -1,4 +1,4 @@
-module github.com/kntaka/mapstructiure
+module github.com/kntaka/mapstructure
 
 go 1.13
 
